@@ -1,4 +1,4 @@
-# Contract_Advisor_RAG
+# Contract_Assistant_Using_RAG
 
 ## Overview 
 
